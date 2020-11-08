@@ -1,0 +1,25 @@
+description jeu de données (lignes, colonnes, valeurs manquantes)
+
+Valeurs Max et Min pour créer des histogrammes
+
+Notebook avec titres en markdown
+
+Graphiques lisibles (titre, légende, axes) avec médianes, moyennes et quantiles:
+  - distributions par arrdt
+  - correlation hauteur/largeur par espèce
+
+Traitement des valeurs aberrantes: mauvais arrdt ?, coordonnées ?, circonférence, hauteur
+=> si une des deux données est ok et que l'échantillon est assez gros on fait une prédiction avec une regression linéaire
+Sinon on remplace par les données du troisième quartile
+Aberrante => X > q3 + 3(q3 - q1)
+Remplacer par q3 + 3/2(q3 - q1)
+
+Données manquantes: on prédit si on peut
+
+Questions:
+  Adjust map size ?
+
+
+  Gestion des coordonnées => geopandas/seaborn + scatterplot/map visualization (prédiction du lieu, gestion des coordonnées aberrantes)
+  Bonne pratique pour corriger le df => stocker les indexes
+  Est-ce qu'on attend une analyse des tournées ?
