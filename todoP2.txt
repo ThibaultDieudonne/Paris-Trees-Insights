@@ -20,8 +20,23 @@ c-Variables étudiées:
 
 III) Synthèse de l'analyse de données
 
-Présentation d'insights
+Présentation d'insights:
+
+Sur la totalité des arbres (analyse de moyennes)
+
+Par quartier (prendre les quartiers atypiques) pour chaque paramètre
 
 
 
-Questions: Ou trouver la description du dataset (abréviation de domanialité, et stades de dev)
+Titrer chaque graphique
+
+Ajouter des légendes explicatives
+
+Ajouter les graphes pur les variables étudiées manquantes
+
+Screener partie par partie pour la présentation
+
+
+
+Questions:
+  Couleurs non persistantes
