@@ -1,0 +1,9 @@
+jupyter==1.0.0
+jupyter-client==6.1.7
+jupyter-console==6.2.0
+jupyter-core==4.6.3
+jupyterlab-pygments==0.1.2
+notebook==6.1.4
+numpy==1.19.2
+pandas==1.1.4
+seaborn==0.11.0
