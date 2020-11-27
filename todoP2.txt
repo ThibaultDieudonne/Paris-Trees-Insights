@@ -18,6 +18,15 @@ c-Variables étudiées:
   Hauteur
   Circonférence
 
+https://cmdlinetips.com/2019/04/how-to-specify-colors-to-scatter-plots-in-python/
+
+DJS: Direction de la Jeunesse et des Sports
+DFPE: Direction des Familles et de la Petite Enfance
+DASCO: Direction des affaires scolaires
+DAC: Direction des affaires culturelles
+DASES: Direction de l'Action sociale, de l'Enfance et de la Santé
+
+
 III) Synthèse de l'analyse de données
 
 Présentation d'insights:
